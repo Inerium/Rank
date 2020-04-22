@@ -1,0 +1,7 @@
+name: Rank
+version: 3.0
+description: plugin de grade qui permet de ranger les joueurs par categories
+author: [B13_, FullGreen]
+main: fr.fullgreen.rank.RankPlugin
+commands: 
+  rank:
